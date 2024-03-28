@@ -1,0 +1,15 @@
+C:\Users\danieloliveira\OneDrive - Grupo Unimaq\Documents\Faculdade\3 Termo\PDS\P1\bin\Debug\net8.0\P1.exe
+C:\Users\danieloliveira\OneDrive - Grupo Unimaq\Documents\Faculdade\3 Termo\PDS\P1\bin\Debug\net8.0\P1.deps.json
+C:\Users\danieloliveira\OneDrive - Grupo Unimaq\Documents\Faculdade\3 Termo\PDS\P1\bin\Debug\net8.0\P1.runtimeconfig.json
+C:\Users\danieloliveira\OneDrive - Grupo Unimaq\Documents\Faculdade\3 Termo\PDS\P1\bin\Debug\net8.0\P1.dll
+C:\Users\danieloliveira\OneDrive - Grupo Unimaq\Documents\Faculdade\3 Termo\PDS\P1\bin\Debug\net8.0\P1.pdb
+C:\Users\danieloliveira\OneDrive - Grupo Unimaq\Documents\Faculdade\3 Termo\PDS\P1\obj\Debug\net8.0\P1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danieloliveira\OneDrive - Grupo Unimaq\Documents\Faculdade\3 Termo\PDS\P1\obj\Debug\net8.0\P1.AssemblyInfoInputs.cache
+C:\Users\danieloliveira\OneDrive - Grupo Unimaq\Documents\Faculdade\3 Termo\PDS\P1\obj\Debug\net8.0\P1.AssemblyInfo.cs
+C:\Users\danieloliveira\OneDrive - Grupo Unimaq\Documents\Faculdade\3 Termo\PDS\P1\obj\Debug\net8.0\P1.csproj.CoreCompileInputs.cache
+C:\Users\danieloliveira\OneDrive - Grupo Unimaq\Documents\Faculdade\3 Termo\PDS\P1\obj\Debug\net8.0\P1.sourcelink.json
+C:\Users\danieloliveira\OneDrive - Grupo Unimaq\Documents\Faculdade\3 Termo\PDS\P1\obj\Debug\net8.0\P1.dll
+C:\Users\danieloliveira\OneDrive - Grupo Unimaq\Documents\Faculdade\3 Termo\PDS\P1\obj\Debug\net8.0\refint\P1.dll
+C:\Users\danieloliveira\OneDrive - Grupo Unimaq\Documents\Faculdade\3 Termo\PDS\P1\obj\Debug\net8.0\P1.pdb
+C:\Users\danieloliveira\OneDrive - Grupo Unimaq\Documents\Faculdade\3 Termo\PDS\P1\obj\Debug\net8.0\P1.genruntimeconfig.cache
+C:\Users\danieloliveira\OneDrive - Grupo Unimaq\Documents\Faculdade\3 Termo\PDS\P1\obj\Debug\net8.0\ref\P1.dll

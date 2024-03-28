@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\danieloliveira\\OneDrive - Grupo Unimaq\\Documents\\Faculdade\\3 Termo\\PDS\\relatorio-ti\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6373D33C-224F-4485-8EDA-26E1EF492CD9}|relatorio-ti.csproj|c:\\users\\danieloliveira\\onedrive - grupo unimaq\\documents\\faculdade\\3 termo\\pds\\relatorio-ti\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6373D33C-224F-4485-8EDA-26E1EF492CD9}|relatorio-ti.csproj|solutionrelative:produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6373D33C-224F-4485-8EDA-26E1EF492CD9}|relatorio-ti.csproj|c:\\users\\danieloliveira\\onedrive - grupo unimaq\\documents\\faculdade\\3 termo\\pds\\relatorio-ti\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6373D33C-224F-4485-8EDA-26E1EF492CD9}|relatorio-ti.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6373D33C-224F-4485-8EDA-26E1EF492CD9}|relatorio-ti.csproj|c:\\users\\danieloliveira\\onedrive - grupo unimaq\\documents\\faculdade\\3 termo\\pds\\relatorio-ti\\files\\relatorio-ti.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6373D33C-224F-4485-8EDA-26E1EF492CD9}|relatorio-ti.csproj|solutionrelative:files\\relatorio-ti.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "relatorio-ti.txt",
+              "DocumentMoniker": "C:\\Users\\danieloliveira\\OneDrive - Grupo Unimaq\\Documents\\Faculdade\\3 Termo\\PDS\\relatorio-ti\\files\\relatorio-ti.txt",
+              "RelativeDocumentMoniker": "files\\relatorio-ti.txt",
+              "ToolTip": "C:\\Users\\danieloliveira\\OneDrive - Grupo Unimaq\\Documents\\Faculdade\\3 Termo\\PDS\\relatorio-ti\\files\\relatorio-ti.txt",
+              "RelativeToolTip": "files\\relatorio-ti.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-03-20T23:36:52.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\danieloliveira\\OneDrive - Grupo Unimaq\\Documents\\Faculdade\\3 Termo\\PDS\\relatorio-ti\\Produto.cs",
+              "RelativeDocumentMoniker": "Produto.cs",
+              "ToolTip": "C:\\Users\\danieloliveira\\OneDrive - Grupo Unimaq\\Documents\\Faculdade\\3 Termo\\PDS\\relatorio-ti\\Produto.cs",
+              "RelativeToolTip": "Produto.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAgwA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T22:56:57.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\danieloliveira\\OneDrive - Grupo Unimaq\\Documents\\Faculdade\\3 Termo\\PDS\\relatorio-ti\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\danieloliveira\\OneDrive - Grupo Unimaq\\Documents\\Faculdade\\3 Termo\\PDS\\relatorio-ti\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAG0AAAAAAAAAAAAgwI8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T22:56:29.016Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

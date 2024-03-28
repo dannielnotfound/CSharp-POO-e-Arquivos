@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\danieloliveira\\OneDrive - Grupo Unimaq\\Documents\\Faculdade\\3 Termo\\PDS\\P1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0848AC4E-B4D3-4345-AED8-3F02816F74F1}|P1.csproj|c:\\users\\danieloliveira\\onedrive - grupo unimaq\\documents\\faculdade\\3 termo\\pds\\p1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0848AC4E-B4D3-4345-AED8-3F02816F74F1}|P1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0848AC4E-B4D3-4345-AED8-3F02816F74F1}|P1.csproj|C:\\Users\\danieloliveira\\OneDrive - Grupo Unimaq\\Documents\\Faculdade\\3 Termo\\PDS\\P1\\remessa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0848AC4E-B4D3-4345-AED8-3F02816F74F1}|P1.csproj|solutionrelative:remessa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0848AC4E-B4D3-4345-AED8-3F02816F74F1}|P1.csproj|C:\\Users\\danieloliveira\\OneDrive - Grupo Unimaq\\Documents\\Faculdade\\3 Termo\\PDS\\P1\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0848AC4E-B4D3-4345-AED8-3F02816F74F1}|P1.csproj|solutionrelative:cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0848AC4E-B4D3-4345-AED8-3F02816F74F1}|P1.csproj|C:\\Users\\danieloliveira\\OneDrive - Grupo Unimaq\\Documents\\Faculdade\\3 Termo\\PDS\\P1\\files\\p1parte1.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0848AC4E-B4D3-4345-AED8-3F02816F74F1}|P1.csproj|solutionrelative:files\\p1parte1.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "p1parte1.txt",
+              "DocumentMoniker": "C:\\Users\\danieloliveira\\OneDrive - Grupo Unimaq\\Documents\\Faculdade\\3 Termo\\PDS\\P1\\files\\p1parte1.txt",
+              "RelativeDocumentMoniker": "files\\p1parte1.txt",
+              "ToolTip": "C:\\Users\\danieloliveira\\OneDrive - Grupo Unimaq\\Documents\\Faculdade\\3 Termo\\PDS\\P1\\files\\p1parte1.txt",
+              "RelativeToolTip": "files\\p1parte1.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-03-25T22:53:03.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\danieloliveira\\OneDrive - Grupo Unimaq\\Documents\\Faculdade\\3 Termo\\PDS\\P1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\danieloliveira\\OneDrive - Grupo Unimaq\\Documents\\Faculdade\\3 Termo\\PDS\\P1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAAAFgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T22:40:42.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Remessa.cs",
+              "DocumentMoniker": "C:\\Users\\danieloliveira\\OneDrive - Grupo Unimaq\\Documents\\Faculdade\\3 Termo\\PDS\\P1\\Remessa.cs",
+              "RelativeDocumentMoniker": "Remessa.cs",
+              "ToolTip": "C:\\Users\\danieloliveira\\OneDrive - Grupo Unimaq\\Documents\\Faculdade\\3 Termo\\PDS\\P1\\Remessa.cs",
+              "RelativeToolTip": "Remessa.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T22:41:41.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\danieloliveira\\OneDrive - Grupo Unimaq\\Documents\\Faculdade\\3 Termo\\PDS\\P1\\Cliente.cs",
+              "RelativeDocumentMoniker": "Cliente.cs",
+              "ToolTip": "C:\\Users\\danieloliveira\\OneDrive - Grupo Unimaq\\Documents\\Faculdade\\3 Termo\\PDS\\P1\\Cliente.cs",
+              "RelativeToolTip": "Cliente.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T22:41:24.717Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

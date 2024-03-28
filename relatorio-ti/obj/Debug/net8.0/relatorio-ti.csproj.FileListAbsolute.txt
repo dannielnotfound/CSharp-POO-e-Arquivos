@@ -1,0 +1,15 @@
+C:\Users\danieloliveira\OneDrive - Grupo Unimaq\Documents\Faculdade\3 Termo\PDS\relatorio-ti\obj\Debug\net8.0\relatorio-ti.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danieloliveira\OneDrive - Grupo Unimaq\Documents\Faculdade\3 Termo\PDS\relatorio-ti\obj\Debug\net8.0\relatorio-ti.AssemblyInfoInputs.cache
+C:\Users\danieloliveira\OneDrive - Grupo Unimaq\Documents\Faculdade\3 Termo\PDS\relatorio-ti\obj\Debug\net8.0\relatorio-ti.AssemblyInfo.cs
+C:\Users\danieloliveira\OneDrive - Grupo Unimaq\Documents\Faculdade\3 Termo\PDS\relatorio-ti\obj\Debug\net8.0\relatorio-ti.csproj.CoreCompileInputs.cache
+C:\Users\danieloliveira\OneDrive - Grupo Unimaq\Documents\Faculdade\3 Termo\PDS\relatorio-ti\obj\Debug\net8.0\relatorio-ti.sourcelink.json
+C:\Users\danieloliveira\OneDrive - Grupo Unimaq\Documents\Faculdade\3 Termo\PDS\relatorio-ti\bin\Debug\net8.0\relatorio-ti.exe
+C:\Users\danieloliveira\OneDrive - Grupo Unimaq\Documents\Faculdade\3 Termo\PDS\relatorio-ti\bin\Debug\net8.0\relatorio-ti.deps.json
+C:\Users\danieloliveira\OneDrive - Grupo Unimaq\Documents\Faculdade\3 Termo\PDS\relatorio-ti\bin\Debug\net8.0\relatorio-ti.runtimeconfig.json
+C:\Users\danieloliveira\OneDrive - Grupo Unimaq\Documents\Faculdade\3 Termo\PDS\relatorio-ti\bin\Debug\net8.0\relatorio-ti.dll
+C:\Users\danieloliveira\OneDrive - Grupo Unimaq\Documents\Faculdade\3 Termo\PDS\relatorio-ti\bin\Debug\net8.0\relatorio-ti.pdb
+C:\Users\danieloliveira\OneDrive - Grupo Unimaq\Documents\Faculdade\3 Termo\PDS\relatorio-ti\obj\Debug\net8.0\relatorio-ti.dll
+C:\Users\danieloliveira\OneDrive - Grupo Unimaq\Documents\Faculdade\3 Termo\PDS\relatorio-ti\obj\Debug\net8.0\refint\relatorio-ti.dll
+C:\Users\danieloliveira\OneDrive - Grupo Unimaq\Documents\Faculdade\3 Termo\PDS\relatorio-ti\obj\Debug\net8.0\relatorio-ti.pdb
+C:\Users\danieloliveira\OneDrive - Grupo Unimaq\Documents\Faculdade\3 Termo\PDS\relatorio-ti\obj\Debug\net8.0\relatorio-ti.genruntimeconfig.cache
+C:\Users\danieloliveira\OneDrive - Grupo Unimaq\Documents\Faculdade\3 Termo\PDS\relatorio-ti\obj\Debug\net8.0\ref\relatorio-ti.dll

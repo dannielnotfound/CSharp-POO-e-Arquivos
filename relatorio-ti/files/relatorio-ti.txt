@@ -1,0 +1,15 @@
+Laptop,Computadores,R$ 3.500,00
+Mouse sem fio,Acessórios de Computador,R$ 50,00
+Teclado mecânico,Acessórios de Computador,R$ 200,00
+Monitor LED 24",Periféricos,R$ 600,00
+SSD 1TB,Armazenamento,R$ 250,00
+Placa de vídeo GeForce RTX 3080,Componentes de Computador,R$ 3.000,00
+Impressora Multifuncional,Periféricos,R$ 400,00
+Roteador Wi-Fi 6,Redes,R$ 150,00
+Fone de ouvido Bluetooth,Acessórios de Computador,R$ 100,00
+Webcam HD,Periféricos,R$ 80,00
+Microfone condensador,Acessórios de Computador,R$ 120,00
+Monitor Ultrawide 34",Periféricos,R$ 800,00
+Kit de memória RAM DDR4 16GB,Componentes de Computador,R$ 150,00
+Placa-mãe ASUS ROG Strix,Componentes de Computador,R$ 400,00
+Cadeira Gamer,Acessórios de Computador,R$ 600,00
